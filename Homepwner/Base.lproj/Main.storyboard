@@ -197,7 +197,6 @@
                         <outlet property="dateLabel" destination="LX7-pV-1D4" id="lDm-TC-BHQ"/>
                         <outlet property="nameField" destination="YVF-QU-lDs" id="9Js-jU-OlI"/>
                         <outlet property="serialNumberField" destination="bJs-PY-usd" id="hg4-qy-Vqr"/>
-                        <outlet property="takePhoto" destination="kjw-Go-XNH" id="Pru-Ca-2un"/>
                         <outlet property="valueField" destination="H3Y-Of-OZV" id="Xrl-2q-9An"/>
                     </connections>
                 </viewController>
